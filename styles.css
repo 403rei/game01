@@ -1,0 +1,13 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #000;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
